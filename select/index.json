@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "鋼の羽根",
+  "base_artist": "RADWIMPS",
+  "createdAt": "2026-02-22T02:24:49.500480Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鋼の羽根",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_鋼の羽根_RADWIMPS.txt"
+    }
+  ]
+}
